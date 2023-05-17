@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gokila-M
 - 👀 I’m interested in learning new concepts daily.
-- 🌱 I’m currently learning HTML,CSS, JAVASCRPT.
-- 💞️ I’m completed MCA-RVS-CAS
+- 🌱 I have completed  HTML,CSS, JAVASCRPT.
+- 💞️ I have  completed MCA-RVS-CAS
 - 📫  contact me mail to -gokika1305@gmail.com
 
 <!---
