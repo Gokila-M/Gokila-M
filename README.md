@@ -8,11 +8,15 @@ Welcome to my GitHub profile! I am a Full-Stack Developer specializing in the ME
 - 🛠️ I have hands-on experience with **WebSocket, Express.js, PostgreSQL, Firebase Authentication**, and more.
 - 🎓 Graduated with a **Master's in Computer Applications** (MCA).
 - 📚 Interested in contributing to open-source projects and collaborating with other developers.
+
+- 
 **🛠️ Tech Stack:**
 - **Frontend:** React.js, Vite.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, PostgreSQL
 - **Tools:** GitHub, Postman, WebSocket, Firebase Authentication
+
+- 
 **🔗 Connect with me:**
 - LinkedIn:https://www.linkedin.com/in/gokilavani-m-73287b227/
 - Email:gokila1305@gmail.com
