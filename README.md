@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I am a Full-Stack Developer specializing in the ME
 - **Database:** MongoDB, PostgreSQL
 - **Tools:** GitHub, Postman, WebSocket, Firebase Authentication
 
-- 
 **🔗 Connect with me:**
 - LinkedIn:https://www.linkedin.com/in/gokilavani-m-73287b227/
 - Email:gokila1305@gmail.com
