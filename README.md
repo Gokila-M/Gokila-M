@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Gokila-M
-- 👀 I’m interested in learning new concepts daily.
-- 🌱 I have completed  HTML,CSS, JAVASCRPT.
-- 💞️ I have  completed MCA-RVS-CAS
-- 📫  contact me mail to -gokika1305@gmail.com
+Hi, I'm Gokilavani! 👋
+Welcome to my GitHub profile! I am a Full-Stack Developer specializing in the MERN stack and passionate about building scalable web applications. I enjoy solving complex problems, learning new technologies, and creating user-friendly solutions.
 
-<!---
-Gokila-M/Gokila-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+👩‍💻 About Me:
+💼 Currently working as a Junior Software Engineer at CODIIS.
+🌱 Always learning and expanding my knowledge in React, Node.js, MongoDB, and other modern web technologies.
+💬 Ask me about anything related to Web Development, MERN stack, or Real-time Applications.
+🛠️ I have hands-on experience with WebSocket, Express.js, PostgreSQL, Firebase Authentication, and more.
+🎓 Graduated with a Master's in Computer Applications (MCA).
+📚 Interested in contributing to open-source projects and collaborating with other developers.
+🛠️ Tech Stack:
+Frontend: React.js, Vite.js, HTML, CSS, JavaScript
+Backend: Node.js, Express.js
+Database: MongoDB, PostgreSQL
+Tools: GitHub, Postman, WebSocket, Firebase Authentication
+🔗 Connect with me:
+LinkedIn:https://www.linkedin.com/in/gokilavani-m-73287b227/
+Email:gokila1305@gmail.com
 --->
