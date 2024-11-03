@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a Full-Stack Developer specializing in the ME
 - 🎓 Graduated with a **Master's in Computer Applications** (MCA).
 - 📚 Interested in contributing to open-source projects and collaborating with other developers.
 
-- 
+
 **🛠️ Tech Stack:**
 - **Frontend:** React.js, Vite.js, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
